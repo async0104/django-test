@@ -1,2 +1,1 @@
-# django-test
-a back-end django test
+Operating transceiver system-back end, please use with English

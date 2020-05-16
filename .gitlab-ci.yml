@@ -1,0 +1,10 @@
+stages:
+  - test
+
+test:
+    image: django:latest
+    stage: test
+    tags:
+        - diango
+    script:
+        - echo "Test success"
